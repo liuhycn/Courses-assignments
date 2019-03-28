@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-6.4.0.jre9">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jre-10.0.1/lib/ext/mssql-jdbc-6.4.0.jre9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

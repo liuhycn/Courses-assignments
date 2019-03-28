@@ -1,0 +1,7 @@
+****************Report****************
+You have tried 3 times !
+Score of time 1 : 9
+Score of time 2 : 1
+Score of time 3 : 0
+The best score is : 9 ! 
+***************Thank you**************
