@@ -2,4 +2,4 @@
 
 There are all the homework files of mine since sophomore year.
 
-**Do not cheating !**
+Don't forget giving me a star🌟 if this repository is usful :)
